@@ -10,5 +10,5 @@
 2) [랜덤포레스트 사용하여 품질 수준 분류 - Data split 2](./산업데이터과학_8주차과제_풀이_2.ipynb)
 ### [Week9. Naive Bayes](./산업데이터과학_9주차_과제_풀이.ipynb)
 1) GaussianNB로 예측
-### [Week10. MLP]
+### [Week10. MLP](./산업데이터과학_10주차_과제_설명.ipynb)
 1) MLP 사용하여 미세먼지 예측
