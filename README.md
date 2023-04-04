@@ -3,6 +3,6 @@
 ### [Week5] Regression
 ### [Week6] 
 ### [Week7]
-### [Week8]
+### [Week8] RandomForest
 ### [Week9] Naive Bayes
 ### [Week10] MLP
