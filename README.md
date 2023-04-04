@@ -1,5 +1,5 @@
 ## Undergraduate_IndustrialDS
-학부과목 산업데이터과학조교의 강의 코드
+: 산업데이터과학(학부)실습조교 자료
 ### [Week4] t-test
 ### [Week5] Regression
 ### [Week8] RandomForest
