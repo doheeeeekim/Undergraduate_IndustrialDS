@@ -1,4 +1,8 @@
 ## Undergraduate_IndustrialDS
-부산대 산업공학과 학부과목 산업데이터과학 조교 실습 코드
-### 5주차 회귀모형(Regression)
-### 6주차 
+학부과목 산업데이터과학조교의 강의 코드
+### [Week5] Regression
+### [Week6] 
+### [Week7]
+### [Week8]
+### [Week9] Naive Bayes
+### [Week10] MLP
